@@ -7,5 +7,5 @@ test project
 * cry
 * repeat
 
-[] learn git
+[] learn git\n
 [x] cry
